@@ -96,7 +96,7 @@ else{
 
 
 /*
-furthur features:
+furthur features that you can add:
 1.Add a title
 2.Mark a note as important
 3.Separate note by user.
